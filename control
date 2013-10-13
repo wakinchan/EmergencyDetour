@@ -1,0 +1,9 @@
+Package: com.kindadev.emergencydetour
+Name: EmergencyDetour
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Accessibility -> killall -9 SpringBoard backboardd
+Maintainer: kinda
+Author: kinda
+Section: Tweaks

@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.AccessibilityUtilities",
+			"com.apple.springboard",
+		);
+	};
+}
